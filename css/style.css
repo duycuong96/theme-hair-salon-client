@@ -3135,3 +3135,10 @@ td, th {
   position: relative;
   overflow-y: scroll;
   height: 600px; }
+
+
+  label{
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+  }
